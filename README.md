@@ -55,6 +55,7 @@ Input returning output
 
 The main thing about FP is to use pure functions 
 Pure functions avoid side effects
+data st, logic, iteration all are independent
 
 Using higher order functions
 Taking functions as IPs or returning functions as OPs
@@ -65,5 +66,7 @@ leads to the creation of new data structures (inc space and time complexxxx)
 
 Persistent data structures for for efficient immutability
 Uses structural sharing (lessens space and time complexxx) - tree struct - leaf node shared 
+
+filter - filters out things according to conditions
 
 
