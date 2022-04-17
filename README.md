@@ -79,3 +79,8 @@ https://onecompiler.com/javascript/3xzdjeyju
 DEEP-SHALLOW COPY
 https://onecompiler.com/javascript/3xz87v8ae
 
+CALL,BIND,APPLY
+https://onecompiler.com/javascript/3xzdpccx6
+
+
+
