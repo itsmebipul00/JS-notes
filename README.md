@@ -74,20 +74,8 @@ Closures
 // 2) Call function in different scope than where function was original defined
 // 3) Closures helps preserves values
 
-function handleLikePost(step) {
-  let likeCount = 0;
-  return function addLike() {
-    likeCount += step;    
-    return likeCount;
-  }
-//   addLike();
-  console.log('like count:', likeCount);
-}
+https://onecompiler.com/javascript/3xzdjeyju
 
-const doubleLike = handleLikePost(2);
-
-console.log(doubleLike());
-console.log(doubleLike());
-console.log(doubleLike());
-
+DEEP-SHALLOW COPY
+https://onecompiler.com/javascript/3xz87v8ae
 
