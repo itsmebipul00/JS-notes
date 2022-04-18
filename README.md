@@ -82,5 +82,8 @@ https://onecompiler.com/javascript/3xz87v8ae
 CALL,BIND,APPLY
 https://onecompiler.com/javascript/3xzdpccx6
 
+ARROW FUNCTIONS
+https://onecompiler.com/javascript/3xzeehg33
+
 
 
