@@ -23,7 +23,7 @@ required a full page refresh
 3rd Phase
 ajax allowed browsers to send and receive data from
 the server without needing to reload the page 
--
+
 callback f -> function passed as arguments in functions
 callback f uses:
 1. transforming one value to another
