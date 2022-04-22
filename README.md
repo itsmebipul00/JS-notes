@@ -88,6 +88,8 @@ https://onecompiler.com/javascript/3xzeehg33
 Factory Functions
 https://onecompiler.com/javascript/3xzn2hrc9
 
+Settimeout
+https://onecompiler.com/javascript/3xzv939g3
 
 
 
