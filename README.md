@@ -91,7 +91,8 @@ https://onecompiler.com/javascript/3xzn2hrc9
 Settimeout
 https://onecompiler.com/javascript/3xzv939g3
 
-
+Currying
+https://onecompiler.com/javascript/3xznzm6bn
 
 
 
