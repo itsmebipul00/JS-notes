@@ -94,6 +94,9 @@ https://onecompiler.com/javascript/3xzv939g3
 Currying
 https://onecompiler.com/javascript/3xznzm6bn
 
+Use strict
+https://onecompiler.com/javascript/3y2cpxrpg
+
 
 
 
