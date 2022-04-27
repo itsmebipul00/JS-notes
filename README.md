@@ -97,6 +97,11 @@ https://onecompiler.com/javascript/3xznzm6bn
 Use strict
 https://onecompiler.com/javascript/3y2cpxrpg
 
+The constructor method is a special method of a class for creating and initializing an object instance of that class.
+A constructor enables you to provide any custom initialization that must be done before any other methods can be called on an instantiated object.
+Creating Objects
+https://onecompiler.com/javascript/3y2cugcj2
+
 
 
 
