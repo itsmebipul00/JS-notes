@@ -69,10 +69,14 @@ Uses structural sharing (lessens space and time complexxx) - tree struct - leaf 
 
 filter - filters out things according to conditions
 
+//browser code for O/P
+
 Closures
 // 1) Closures are a property of JavaScript functions
 // 2) Call function in different scope than where function was original defined
 // 3) Closures helps preserves values
+
+
 
 https://onecompiler.com/javascript/3xzdjeyju
 
@@ -99,8 +103,18 @@ https://onecompiler.com/javascript/3y2cpxrpg
 
 The constructor method is a special method of a class for creating and initializing an object instance of that class.
 A constructor enables you to provide any custom initialization that must be done before any other methods can be called on an instantiated object.
+
 Creating Objects
-https://onecompiler.com/javascript/3y2cugcj2
+https://onecompiler.com/javascript/3y2cugcj2 
+
+proto is a property of every object that points to the parent object that it is inherting from whearas prototype is a property on constructor function that has all the stuffs that will be inherited by its instance
+Prototypal inheritence
+https://onecompiler.com/javascript/3y2d58wp2
+
+
+
+
+
 
 
 
