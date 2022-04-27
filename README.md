@@ -108,6 +108,7 @@ Creating Objects
 https://onecompiler.com/javascript/3y2cugcj2 
 
 proto is a property of every object that points to the parent object that it is inherting from whearas prototype is a property on constructor function that has all the stuffs that will be inherited by its instance
+
 Prototypal inheritence
 https://onecompiler.com/javascript/3y2d58wp2
 
