@@ -69,6 +69,55 @@ Uses structural sharing (lessens space and time complexxx) - tree struct - leaf 
 
 filter - filters out things according to conditions
 
+single threaded -> js can run one piece of code at a time
+non blocking -> , async conc lang
+contains call-(ds which records where in the program we are, pushes something into the stack when function call happens, and pops something out of the stack when returned)
+, event loop and other apis
+
+blocking means things which are slow on the stack(image, network request)
+sync - one thing at a time which does not give nice fluid UIs for users since at that the time the call stack has things on it and the browser is stuck, it cant do anything else
+
+for this sync we use  cbs, where we run some code give it a cb which we run it later
+
+not defined- nowhere in program Reference Error
+undefined- initialiazed and present in the memory but its value hasnt been read yet
+fat arrow functions arent given space in the memory while normal fun are, to check this  call them before they are initialized
+
+TDZ(zone in scope where let and const aren't declared.), Hoisting
+
+The let and const variables exist in the TDZ from the start of their enclosing scope until they are declared.
+Why TDZ?
+JS moves all your variable declarations to the top of their scope (Hoisting)
+
+var gets undefined initialized while hoisting.
+let and const also get hoisted, but don't get set to undefined. So a TDZ occurs because let and const aren't properly hoisted.
+
+NCO ??
+If x is either null or undefined then only result will be y.
+If x is not null or undefined then the result will be x.
+
+OR ||
+returns first truthy value
+
+AND &&
+returns first falsy value else truthy value
+
+OPTIONAL CHANING
+No chaining with AND or OR operators unless a parenthesis is provided to explicitly indicate precedence
+If we want some of them to be optional, then we’ll need to replace more . with ?.
+?. immediately stops (“short-circuits”) the evaluation if the left part doesn’t exist.
+obj?.prop – returns obj.prop if obj exists, otherwise undefined.
+obj?.[prop] – returns obj[prop] if obj exists, otherwise undefined.
+obj.method?.() – calls obj.method() if obj.method exists, otherwise returns undefined.
+
+A polyfill is a piece of code (or plugin) that provides the technology that you, the developer, expect the browser to provide natively. 
+
+tc39 is a committe deciding how ecmascript should work
+
+A shim is any piece of code that performs interception of an API call and provides a layer of abstraction. It isn't necessarily restricted to a web application or HTML5/CSS3.
+
+A polyfill is a type of shim that retrofits legacy browsers with modern HTML5/CSS3 features usually using Javascript or Flash.
+
 //browser code for O/P
 
 Closures
