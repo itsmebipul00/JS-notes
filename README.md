@@ -115,7 +115,8 @@ Primitives are assigned by values while objects are assigned by reference
 https://onecompiler.com/javascript/3y2dhcmja
 
 
-
+Promises
+https://onecompiler.com/javascript/3y2dr3rh8
 
 
 
