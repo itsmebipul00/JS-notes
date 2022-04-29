@@ -167,7 +167,7 @@ https://onecompiler.com/javascript/3y2dhcmja
 Promises
 https://onecompiler.com/javascript/3y2dr3rh8
 
-
+isNaN(VAL) => returns false if VAL is no else true
 
 
 
