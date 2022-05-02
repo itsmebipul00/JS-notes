@@ -123,9 +123,7 @@ A polyfill is a type of shim that retrofits legacy browsers with modern HTML5/CS
 Closures
 // 1) Closures are a property of JavaScript functions
 // 2) Call function in different scope than where function was original defined
-// 3) Closures helps preserves values
-
-
+// 3) Closures helps preserves values private variables..etc
 
 https://onecompiler.com/javascript/3xzdjeyju
 
