@@ -167,5 +167,20 @@ https://onecompiler.com/javascript/3y2dr3rh8
 
 isNaN(VAL) => returns false if VAL is no else true
 
+function composition adv of currying
+https://onecompiler.com/javascript/3y2su4p3p
+
+implicit explicit binding //todo more
+https://javascript.plainenglish.io/how-well-do-you-know-this-ce4355bc9b
+https://onecompiler.com/javascript/3y2maqzsb
+
+
+polyfills
+https://onecompiler.com/javascript/3y2j5xp67
+
+
+
+
+
 
 
